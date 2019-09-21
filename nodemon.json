@@ -1,0 +1,8 @@
+{
+  "watch": [
+    "app",
+    "config",
+    "db"
+  ],
+  "exec": "babel-node config/server.js"
+}
